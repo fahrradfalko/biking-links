@@ -24,11 +24,12 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/autofreie-innenstadt-am-sonntag-15-september-1.html>autofreier Sonntag in Düsseldorf</a></ul>
 <ul><a href="https://londoncarfreeday.com/>autofreier Tag in London</a></ul>
 <ul><a href="https://www.manager-magazin.de/fotostrecke/autofreie-innenstadt-elf-staedte-die-fotostrecke-140288.html">Manager Magazin (2016): Wie diese elf Städte den Verkehr in den Griff kriegen wollen</a></ul>
+
 <h1>Argumentationshilfen</h1>
 <ul><a href="https://twitter.com/Waldkreis/status/1393932677024256002?s=20">Beispiele zu Verkehrsverpuffung</a></ul>
 <ul><a href="https://twitter.com/zukunftmobil/status/1055492529997651969?s=20">Das Braess-Paradoxon am Beispiel Seine-Ufer widerlegt</a></ul>
 <ul><a href="https://adfc-berlin.de/radverkehr/sicherheit/information-und-analyse/121-fahrradunfaelle-in-berlin-unfallstatistik/222-exkurs-der-tote-winkel.html">ADFC Berlin: der tote Winkel</a></ul>
-<ul><a href="https://twitter.com/wobe/status/1362329020923281409?s=20">https://twitter.com/wobe/status/1362329020923281409?s=20</a></ul>
+<ul><a href="https://twitter.com/wobe/status/1362329020923281409?s=20">Video "Wie viele Tote sind akzeptabel?"</a></ul>
 <ul><a href="https://www.faz.net/aktuell/wirtschaft/wirtschaftspolitik/studie-autofahrer-verursachen-hoehere-kosten-als-sie-abgaben-zahlen-12085783.html">FAZ.net (2013): Autofahrer verursachen höhere Kosten als sie Abgaben zahlen</a></ul>
 <ul><a href="https://nationaler-radverkehrsplan.de/de/aktuell/nachrichten/fahrrad-hat-gesamtgesellschaftlichen-nutzen-von-30">Verkehrsministerium (2018): Fahrrad hat gesamtgesellschaftlichen Nutzen von 30 Cent pro Kilometer</a> - Präsentation dazu <a href="https://www.vivavelo.org/fileadmin/inhalte/user_upload/Goessling_CBA_Auto-Fahrrad_0418.pdf">hier</a></ul>
 
