@@ -39,7 +39,8 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_26012001_S3236420014.htm">Verwaltungsvorschrift zur StVO</a></ul>
 <ul><a href="https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_von_2013_bis_2017">Bildtafel der Verkehrszeichen</a></ul>
 <ul><a href="https://www.buzer.de/gesetz/10146/index.htm>Straßenverkehrs-Zulassungs-Ordnung (StVZO)</a></ul>
-<ul><a href="https://www.docdroid.net/J9jhxs0/era-2010-ohne-lesezeichen-pdf">ERA 2010</a> - "Empfehlungen für Radverkehrsanlagen"</ul>
+<ul><a href="https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_01_11_2017.pdf>Bundeseinheitlicher Tatbestandskatalog für Ordnungswidrigkeiten im Straßenverkehr (Stand 2017)</a></ul>
+<ul><a href="https://www.docdroid.net/J9jhxs0/era-2010-ohne-lesezeichen-pdf">ERA, "Empfehlungen für Radverkehrsanlagen", Stand 2010</a></ul>
 <ul><a href="https://www.nahmobil-hessen.de/wp-content/uploads/2021/01/Qualitaetsstandards_und_Musterloesungen_2te_Auflage_web.pdf">Qualitätsstandards und Musterlösungen für Radwege</a> von "Nahmobil Hessen"</ul>
 
 <h1>Sprache in Berichterstattungen über Verletzte und Tote im Straßenverkehr</h1>
