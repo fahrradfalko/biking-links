@@ -43,6 +43,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/bkat_owi_01_11_2017.pdf>Bundeseinheitlicher Tatbestandskatalog für Ordnungswidrigkeiten im Straßenverkehr (Stand 2017)</a></ul>
 <ul><a href="https://www.docdroid.net/J9jhxs0/era-2010-ohne-lesezeichen-pdf">ERA, "Empfehlungen für Radverkehrsanlagen", Stand 2010</a></ul>
 <ul><a href="https://www.nahmobil-hessen.de/wp-content/uploads/2021/01/Qualitaetsstandards_und_Musterloesungen_2te_Auflage_web.pdf">Qualitätsstandards und Musterlösungen für Radwege</a> von "Nahmobil Hessen"</ul>
+<ul><a href="http://www.bet-explorer-online.de/">BET Explorer, Stand November 2021, durchsuchbare Online-Version des bundeseinheitlichen Tatbestandskatalog</A></UL>
 
 <h1>Sprache in Berichterstattungen über Verletzte und Tote im Straßenverkehr</h1>
 <ul><a href="https://www.iass-potsdam.de/de/blog/2021/04/wir-brauchen-eine-neue-sprache-fuer-die-verkehrsberichterstattung">IASS Potsdam (2021): Wir brauchen eine neue Sprache für die Verkehrsberichterstattung</a></ul>
