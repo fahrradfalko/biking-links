@@ -53,7 +53,6 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
-<ul><a href="https://twitter.com/fietsprofessor/status/1010884460391395328">Video: How many deaths are acceptable?</a></ul>
 <ul><a href="https://twitter.com/BerlinCyclist/status/1001182116556804096?s=20">Video: Hupe gegen Falschparker auf Radweg</a></ul>
 <ul><a href="https://twitter.com/aktuelle_stunde/status/1154418437537579008?s=20">Video: "Feuerwehr ist wichtig, Parken aber auch"</a></ul>
 <ul><a href="https://twitter.com/FFMbyBicycle/status/1075414033384255488?s=20">Beispielvideo Dooring</a></ul>
