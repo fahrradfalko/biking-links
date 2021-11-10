@@ -51,6 +51,9 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.heise.de/amp/tp/features/Britische-Richtlinien-zur-korrekten-Berichterstattung-ueber-Verkehrsunfaelle-4915800.html">Heise.de (2020): Britische Richtlinien zur korrekten Berichterstattung über Verkehrsunfälle</a></ul>
 <ul><a href="https://www.tagesspiegel.de/berlin/konnte-nicht-mehr-bremsen-wie-polizeimeldungen-autounfaelle-verharmlosen/25450426.html">Tagesspiegel (2020): Die Polizeimeldungen Autounfälle verharmlosen</a></ul>
 
+<h1>Hi-Viz und Helm</h1>
+<a href="https://twitter.com/CorneliusJames_/status/1458024043496546304">If only motorway maintenance vehicles were bright yellow and had flashing lights on them</a></ul>
+
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
 <ul><a href="https://twitter.com/BerlinCyclist/status/1001182116556804096?s=20">Video: Hupe gegen Falschparker auf Radweg</a></ul>
