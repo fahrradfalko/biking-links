@@ -18,6 +18,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.derstandard.at/consent/tcf/story/2000110059521/begegnungszonen-sind-gut-fuers-geschaeft">Der Standard (2019): Begegnungszonen sind gut fürs Geschäft"</a></ul>
 <ul><a href="https://www.forbes.com/sites/carltonreid/2018/11/16/cyclists-spend-40-more-in-londons-shops-than-motorists/?sh=517bb366641e">Forbes.com (2018): Cyclists spend 40% more in London Shops than motorists</a></ul>
 <ul><a href="https://www.wiwo.de/technologie/green/verkehr-vier-gruende-warum-fahrradwege-die-wirtschaft-ankurbeln/13548476.html">Wirtschaftswoche (2014): 4 Gründe, warum Fahrradwege die Wirtschaft ankurbeln</a></ul>
+<ul><a href="https://www.aktivmobil-bw.de/aktuelles/news/radfahrer-gut-fuer-einzelhandel/vom/4/4/2016/">Studie der ECF (2016): Radfahrer gut für Einzelhandel</a></ul>
 
 <h1>Beispiele für autofreie / autoarme Städte</h1>
 <ul><a href="https://bielefeld.meine-stadt-transparent.de/file-content/30408">Bielefeld sperrt bis 2022 Teile der Altstadt</a> - Bericht dazu auf <a href="https://twitter.com/WDRaktuell/status/1398000368475385866?s=20">Twitter</a></ul>
@@ -33,6 +34,8 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/wobe/status/1362329020923281409?s=20">Video "Wie viele Tote sind akzeptabel?"</a></ul>
 <ul><a href="https://www.faz.net/aktuell/wirtschaft/wirtschaftspolitik/studie-autofahrer-verursachen-hoehere-kosten-als-sie-abgaben-zahlen-12085783.html">FAZ.net (2013): Autofahrer verursachen höhere Kosten als sie Abgaben zahlen</a></ul>
 <ul><a href="https://nationaler-radverkehrsplan.de/de/aktuell/nachrichten/fahrrad-hat-gesamtgesellschaftlichen-nutzen-von-30">Verkehrsministerium (2018): Fahrrad hat gesamtgesellschaftlichen Nutzen von 30 Cent pro Kilometer</a> - Präsentation dazu <a href="https://www.vivavelo.org/fileadmin/inhalte/user_upload/Goessling_CBA_Auto-Fahrrad_0418.pdf">hier</a></ul>
+<ul><a href="https://twitter.com/urbanthoughts11/status/1429344700457226242?s=20">Space required by fossil cars, electric cars, self-driving cars</a></ul>
+
 
 <h1>Rechtsgrundlagen</h1>
 <ul><a href="https://dejure.org/gesetze/StVG">Straßenverkehrs-Gesetz (StVG)</a></ul>
