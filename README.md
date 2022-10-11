@@ -11,6 +11,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://cyklokoalicia.sk/arrogance/">"Arrogance of Space"-Mapper</a></ul>
 
 <h1>Studien und Artikel zum Thema autoarme Einkaufsstraßen</h1>
+<ul><a href="https://www.iass-potsdam.de/de/news/mobilitaet-beim-einkaufen-haendler-ueberschaetzen-rolle-des-autos">IASS (2021): Mobilität beim Einkaufen: Händler überschätzen Rolle des Autos</a></ul>
 <ul><a href="https://www.manager-magazin.de/harvard/marketing/fussgaenger-sind-die-wahren-umsatzbringer-a-d5fc3be8-0002-0001-0000-000179057699">Manager Magazin (2021): Fußgänger sind die wahren Umsatzbringer</a></ul>
 <ul><a href="https://www.forbes.com/sites/carltonreid/2019/03/08/closing-central-madrid-to-cars-resulted-in-9-5-boost-to-retail-spending-finds-bank-analysis/">Forbes.com (2019): Closing Central Madrid To Cars Resulted In 9.5% Boost To Retail Spending</a></ul>
 <ul><a href="https://www.utoronto.ca/news/toronto-s-covid-19-bike-lane-expansion-boosted-access-jobs-retail-u-t-study">University of Toronto (2021): Toronto’s COVID-19 bike lane expansion boosted access to jobs, retail</ul>
