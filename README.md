@@ -11,6 +11,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://cyklokoalicia.sk/arrogance/">"Arrogance of Space"-Mapper</a></ul>
 
 <h1>Studien und Artikel zum Thema autoarme Einkaufsstraßen</h1>
+<a href="https://www.theglobeandmail.com/canada/article-pandemic-has-dismantled-assumption-that-more-parking-is-inherently/">The Globe and Mail (2022): New spin on parking spaces during pandemic reaps benefits</a></ul>
 <ul><a href="https://goodnews-magazin.de/mehr-umsatz-durch-autofreie-strassen/">Goodnews Magazin (2021): Mehr Umsatz durch autofreie Straßen</a></ul>
 "Eine aktuelle Umfrage belegt dasselbe für das Einkaufen am Kottbusser Damm und in der Hermannstraße in Berlin. Nur sieben Prozent der Kundinnen und Kunden fahren mit dem Auto und 93 Prozent der Käufer:innen kommen zu Fuß, mit dem Rad oder in Bussen und Bahnen. Auch in den Umsätzen spiegelt sich dieses Ergebnis wider. 91 Prozent der Umsätze zahlen Menschen, die ohne Auto gekommen sind. Und “eine Erhebung in Leipzig zeigte, dass 70 Prozent der Einkäufe von Umwelt­verbund­kunden getätigt werden – also von Kund:innen, die mit ÖPNV oder Taxis, mit dem Fahrrad oder zu Fuß kommen.” 
 <ul><a href="https://www.iass-potsdam.de/de/news/mobilitaet-beim-einkaufen-haendler-ueberschaetzen-rolle-des-autos">IASS (2021): Mobilität beim Einkaufen: Händler überschätzen Rolle des Autos</a></ul>
