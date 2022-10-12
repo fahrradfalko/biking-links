@@ -27,7 +27,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.aktivmobil-bw.de/aktuelles/news/radfahrer-gut-fuer-einzelhandel/vom/4/4/2016/">Studie der ECF (2016): Radfahrer gut für Einzelhandel</a></ul>
 
 <h1>Autofreie / autoarme Städte</h1>
-  <ul><a href="https://theconversation.com/12-best-ways-to-get-cars-out-of-cities-ranked-by-new-research-180642"></a>The Conversation (2022): 12 best ways to get cars out of cities – ranked by new research </ul>
+  <ul><a href="https://theconversation.com/12-best-ways-to-get-cars-out-of-cities-ranked-by-new-research-180642">The Conversation (2022): 12 best ways to get cars out of cities – ranked by new research</a></ul>
 <ul><a href="https://bielefeld.meine-stadt-transparent.de/file-content/30408">Bielefeld sperrt bis 2022 Teile der Altstadt</a> - Bericht dazu auf <a href="https://twitter.com/WDRaktuell/status/1398000368475385866?s=20">Twitter</a></ul>
 <ul><a href="https://www.rfi.fr/en/france/20210514-paris-mayor-eyes-virtually-car-free-city-centre-by-2022-green-pollution-environment-anne-hidalgo">Paris plant autofreie Innenstadt ab 2022</a></ul>
 <ul><a href="https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/autofreie-innenstadt-am-sonntag-15-september-1.html>autofreier Sonntag in Düsseldorf</a></ul>
