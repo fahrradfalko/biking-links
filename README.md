@@ -3,15 +3,17 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 
 <h1>Tools</h1>
 <ul><a href="https://www.Streetmix.net">Streetmix.net</a> - Mit diesem Tool lassen sich Straßenquerschnitte planen, um z.B. zu zeigen, wie der verfügbare Platz in einer Straße anders genutzt werden kann.</ul>
+<ul><a href="https://www.3dstreet.org/">Streetmix 3D Renderings</a></ul>
 <ul><a href="https://www.weg.li">weg.li</a> - Mit diesem Tool lassen sich Parkvergehen ganz einfach ans zuständige Ordnungsamt melden, basierend auf Photos, die mit dem Handy aufgenommen wurden.</ul>
 <ul><a href="https://www.falschparken-frankfurt.info/">Falschparken Frankfurt</a> - Eine Anleitung, wie man Parkvergehen an die Behörden melden kann - spezialisiert auf die Behördenstruktur in Frankfurt, aber auch für Rest von Hessen analog gültig.</ul>
 <ul><a href="https://tally.wikinaut.de/">Tally</a> - Ein einfaches browserbasiertes Tool, um verschiedene Dinge zu zählen</ul>
 <ul><a href="https://unfallatlas.statistikportal.de/">Unfallatlas</a> - Der offizielle Unfallatlas des Bundesamtes für Statistik enthält alle Unfälle im Straßenverkehr mit Körperverletzung. Details wie Unfallursache etc. werden aufgelistet.</ul>
 <ul><a href="https://www.blackmagicdesign.com/de/products/davinciresolve/">Davinci Resolve</a> - Software für Videobearbeitung, z.B. Verpixeln von Gesichern, Kennzeichen, etc.</ul>
 <ul><a href="https://cyklokoalicia.sk/arrogance/">"Arrogance of Space"-Mapper</a></ul>
+<ul><a href="https://twitter.com/maestro_alubia/status/1483406323328892931?s=20&t=WbaVuahWt3mg4EM8ejxZMA">Eclipse Sumo - Tool zur Simulation von Verkehr</a></ul>
 
 <h1>Studien und Artikel zum Thema autoarme Einkaufsstraßen</h1>
-<a href="https://www.theglobeandmail.com/canada/article-pandemic-has-dismantled-assumption-that-more-parking-is-inherently/">The Globe and Mail (2022): New spin on parking spaces during pandemic reaps benefits</a></ul>
+<ul><a href="https://www.theglobeandmail.com/canada/article-pandemic-has-dismantled-assumption-that-more-parking-is-inherently/">The Globe and Mail (2022): New spin on parking spaces during pandemic reaps benefits</a></ul>
 <ul><a href="https://goodnews-magazin.de/mehr-umsatz-durch-autofreie-strassen/">Goodnews Magazin (2021): Mehr Umsatz durch autofreie Straßen</a></ul>
 "Eine aktuelle Umfrage belegt dasselbe für das Einkaufen am Kottbusser Damm und in der Hermannstraße in Berlin. Nur sieben Prozent der Kundinnen und Kunden fahren mit dem Auto und 93 Prozent der Käufer:innen kommen zu Fuß, mit dem Rad oder in Bussen und Bahnen. Auch in den Umsätzen spiegelt sich dieses Ergebnis wider. 91 Prozent der Umsätze zahlen Menschen, die ohne Auto gekommen sind. Und “eine Erhebung in Leipzig zeigte, dass 70 Prozent der Einkäufe von Umwelt­verbund­kunden getätigt werden – also von Kund:innen, die mit ÖPNV oder Taxis, mit dem Fahrrad oder zu Fuß kommen.” 
 <ul><a href="https://www.iass-potsdam.de/de/news/mobilitaet-beim-einkaufen-haendler-ueberschaetzen-rolle-des-autos">IASS (2021): Mobilität beim Einkaufen: Händler überschätzen Rolle des Autos</a></ul>
@@ -24,7 +26,8 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.wiwo.de/technologie/green/verkehr-vier-gruende-warum-fahrradwege-die-wirtschaft-ankurbeln/13548476.html">Wirtschaftswoche (2014): 4 Gründe, warum Fahrradwege die Wirtschaft ankurbeln</a></ul>
 <ul><a href="https://www.aktivmobil-bw.de/aktuelles/news/radfahrer-gut-fuer-einzelhandel/vom/4/4/2016/">Studie der ECF (2016): Radfahrer gut für Einzelhandel</a></ul>
 
-<h1>Beispiele für autofreie / autoarme Städte</h1>
+<h1>Autofreie / autoarme Städte</h1>
+  <ul><a href="https://theconversation.com/12-best-ways-to-get-cars-out-of-cities-ranked-by-new-research-180642"></a>The Conversation (2022): 12 best ways to get cars out of cities – ranked by new research </ul>
 <ul><a href="https://bielefeld.meine-stadt-transparent.de/file-content/30408">Bielefeld sperrt bis 2022 Teile der Altstadt</a> - Bericht dazu auf <a href="https://twitter.com/WDRaktuell/status/1398000368475385866?s=20">Twitter</a></ul>
 <ul><a href="https://www.rfi.fr/en/france/20210514-paris-mayor-eyes-virtually-car-free-city-centre-by-2022-green-pollution-environment-anne-hidalgo">Paris plant autofreie Innenstadt ab 2022</a></ul>
 <ul><a href="https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/autofreie-innenstadt-am-sonntag-15-september-1.html>autofreier Sonntag in Düsseldorf</a></ul>
@@ -41,6 +44,9 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/urbanthoughts11/status/1429344700457226242?s=20">Space required by fossil cars, electric cars, self-driving cars</a></ul>
 <ul><a href="https://www.wired.com/2014/06/wuwt-traffic-induced-demand/">Wired.com (2014): Building Bigger Roads Actually Makes Traffic Worse</a></ul>
 <ul><a href="https://usa.streetsblog.org/2019/05/29/protect-yourself-separated-bike-lanes-means-safer-streets-study-says/">Schutzstreifen-Studie</a></ul>
+<ul><a href="https://twitter.com/fietsprofessor/status/1483885652714430472?s=20&t=WbaVuahWt3mg4EM8ejxZMA"><Hierarchy of Controls</a></ul>
+<ul><a href="https://twitter.com/EikePan/status/1500377526253895687?s=20&t=WbaVuahWt3mg4EM8ejxZMA">70% aller Wege unter 10km</a></ul>
+<ul><a href="https://twitter.com/Peter_Schaar/status/1471400208647004160?s=20&t=WbaVuahWt3mg4EM8ejxZMA">ehemaliger Bundesdatenschutzbeauftragter zu Falschparker-Photos</a></ul>
 
 
 <h1>Rechtsgrundlagen</h1>
@@ -55,13 +61,17 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="http://www.bet-explorer-online.de/">BET Explorer, Stand November 2021, durchsuchbare Online-Version des bundeseinheitlichen Tatbestandskatalog</A></UL>
 
 <h1>Sprache in Berichterstattungen über Verletzte und Tote im Straßenverkehr</h1>
+<ul><a href="https://fuehrerschein-nachpruefung.de/verunglueckte-berichte/">Verunglückte Berichte</a></ul>
+<ul><a href="https://twitter.com/greenoid_de/status/1404710769153953796?s=20&t=WbaVuahWt3mg4EM8ejxZMA">Bullshit-Bingo dazu</a></ul>
 <ul><a href="https://www.iass-potsdam.de/de/blog/2021/04/wir-brauchen-eine-neue-sprache-fuer-die-verkehrsberichterstattung">IASS Potsdam (2021): Wir brauchen eine neue Sprache für die Verkehrsberichterstattung</a></ul>
 <ul><a href="https://www.bloomberg.com/news/articles/2019-12-10/why-news-coverage-of-car-crashes-favors-drivers">Bloomberg.com (2019): How Media Coverage of Car Crashes Downplays the Role of Drivers</a></ul>
 <ul><a href="https://www.heise.de/amp/tp/features/Britische-Richtlinien-zur-korrekten-Berichterstattung-ueber-Verkehrsunfaelle-4915800.html">Heise.de (2020): Britische Richtlinien zur korrekten Berichterstattung über Verkehrsunfälle</a></ul>
 <ul><a href="https://www.tagesspiegel.de/berlin/konnte-nicht-mehr-bremsen-wie-polizeimeldungen-autounfaelle-verharmlosen/25450426.html">Tagesspiegel (2020): Die Polizeimeldungen Autounfälle verharmlosen</a></ul>
 
 <h1>Hi-Viz und Helm</h1>
-<a href="https://twitter.com/CorneliusJames_/status/1458024043496546304">If only motorway maintenance vehicles were bright yellow and had flashing lights on them</a></ul>
+<ul><a href="https://twitter.com/CorneliusJames_/status/1458024043496546304">If only motorway maintenance vehicles were bright yellow and had flashing lights on them</a></ul>
+<ul><a href="https://twitter.com/SurreyRoadCops/status/1276451659913342976?s=20&t=VGOo8HoqrDluwHW0-C-6FA">We have cars covered in hi-viz and big flashy lights and drivers STILL don’t see us.</a></ul>
+<ul><a href="https://twitter.com/fietsprofessor/status/1479797840406847489">Cyclist, wear hi-viz and have working lights. It is YOUR responsibility to be seen!</a></ul>
 
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
