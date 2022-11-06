@@ -11,6 +11,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.blackmagicdesign.com/de/products/davinciresolve/">Davinci Resolve</a> - Software für Videobearbeitung, z.B. Verpixeln von Gesichern, Kennzeichen, etc.</ul>
 <ul><a href="https://cyklokoalicia.sk/arrogance/">"Arrogance of Space"-Mapper</a></ul>
 <ul><a href="https://twitter.com/maestro_alubia/status/1483406323328892931?s=20&t=WbaVuahWt3mg4EM8ejxZMA">Eclipse Sumo - Tool zur Simulation von Verkehr</a></ul>
+<ul><a href="meldeplattform-radverkehr.de">Meldeplattform Radverkehr</a> - Mängel in der Rad-Infrastruktur in und um Frankfurt und um Rhein-Main-Gebiet melden, automatische Weiterleitung an die zuständige Behörde</ul>
 
 <h1>Studien und Artikel zum Thema autoarme Einkaufsstraßen</h1>
 <ul><a href="https://www.theglobeandmail.com/canada/article-pandemic-has-dismantled-assumption-that-more-parking-is-inherently/">The Globe and Mail (2022): New spin on parking spaces during pandemic reaps benefits</a></ul>
@@ -35,6 +36,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.manager-magazin.de/fotostrecke/autofreie-innenstadt-elf-staedte-die-fotostrecke-140288.html">Manager Magazin (2016): Wie diese elf Städte den Verkehr in den Griff kriegen wollen</a></ul>
 
 <h1>Argumentationshilfen</h1>
+<ul><a href="https://michaelschneider.medium.com/how-to-overcome-common-objections-to-bike-lanes-9d6edc5a8a0c">How to overcome common objections to bike lanes</a></ul>
 <ul><a href="https://twitter.com/Waldkreis/status/1393932677024256002?s=20">Beispiele zu Verkehrsverpuffung</a></ul>
 <ul><a href="https://twitter.com/zukunftmobil/status/1055492529997651969?s=20">Das Braess-Paradoxon am Beispiel Seine-Ufer widerlegt</a></ul>
 <ul><a href="https://adfc-berlin.de/radverkehr/sicherheit/information-und-analyse/121-fahrradunfaelle-in-berlin-unfallstatistik/222-exkurs-der-tote-winkel.html">ADFC Berlin: der tote Winkel</a></ul>
@@ -47,6 +49,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/fietsprofessor/status/1483885652714430472?s=20&t=WbaVuahWt3mg4EM8ejxZMA"><Hierarchy of Controls</a></ul>
 <ul><a href="https://twitter.com/EikePan/status/1500377526253895687?s=20&t=WbaVuahWt3mg4EM8ejxZMA">70% aller Wege unter 10km</a></ul>
 <ul><a href="https://twitter.com/Peter_Schaar/status/1471400208647004160?s=20&t=WbaVuahWt3mg4EM8ejxZMA">ehemaliger Bundesdatenschutzbeauftragter zu Falschparker-Photos</a></ul>
+<ul><a href="https://twitter.com/das_Menschy/status/1335888901584654336?s=20&t=tfpNF5cvt3DyxwKy4CLYaw">Schaubilder zu Unfallverursachern Rad vs. Auto</a></ul>
 
 
 <h1>Rechtsgrundlagen</h1>
@@ -72,6 +75,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/CorneliusJames_/status/1458024043496546304">If only motorway maintenance vehicles were bright yellow and had flashing lights on them</a></ul>
 <ul><a href="https://twitter.com/SurreyRoadCops/status/1276451659913342976?s=20&t=VGOo8HoqrDluwHW0-C-6FA">We have cars covered in hi-viz and big flashy lights and drivers STILL don’t see us.</a></ul>
 <ul><a href="https://twitter.com/fietsprofessor/status/1479797840406847489">Cyclist, wear hi-viz and have working lights. It is YOUR responsibility to be seen!</a></ul>
+<ul><a href="https://www.forbes.com/sites/carltonreid/2020/07/10/bicycle-helmets-not-designed-for-impacts-from-cars-stresses-leading-maker-giro/?sh=662076becbd4">Forbes.com (2020): Bicycle Helmets Not Designed For Impacts From Cars, Stresses Leading Maker Giro</a></ul>
 
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
