@@ -12,6 +12,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://cyklokoalicia.sk/arrogance/">"Arrogance of Space"-Mapper</a></ul>
 <ul><a href="https://twitter.com/maestro_alubia/status/1483406323328892931?s=20&t=WbaVuahWt3mg4EM8ejxZMA">Eclipse Sumo - Tool zur Simulation von Verkehr</a></ul>
 <ul><a href="meldeplattform-radverkehr.de">Meldeplattform Radverkehr</a> - Mängel in der Rad-Infrastruktur in und um Frankfurt und um Rhein-Main-Gebiet melden, automatische Weiterleitung an die zuständige Behörde</ul>
+<ul><a href="https://qimby.net/phibo">Qimby-net/phibo</a> - Eine Sammlung lizenzfreier Bilder von Rad-Infrastruktur</ul>
 
 <h1>Studien und Artikel zum Thema autoarme Einkaufsstraßen</h1>
 <ul><a href="https://www.theglobeandmail.com/canada/article-pandemic-has-dismantled-assumption-that-more-parking-is-inherently/">The Globe and Mail (2022): New spin on parking spaces during pandemic reaps benefits</a></ul>
@@ -34,6 +35,11 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/autofreie-innenstadt-am-sonntag-15-september-1.html>autofreier Sonntag in Düsseldorf</a></ul>
 <ul><a href="https://londoncarfreeday.com/>autofreier Tag in London</a></ul>
 <ul><a href="https://www.manager-magazin.de/fotostrecke/autofreie-innenstadt-elf-staedte-die-fotostrecke-140288.html">Manager Magazin (2016): Wie diese elf Städte den Verkehr in den Griff kriegen wollen</a></ul>
+<ul><a href="https://www.youtube.com/watch?v=F5JEM_e8m24">The Spectacular Success of Montreal's Car-Free Streets</a></ul>
+<ul><a href="https://bristolcyclingcampaign.org.uk/wp-content/uploads/2014/01/shoppersandhowtheytravel.pdf">Shoppers and How they Travel - Bristol</a></ul>
+<ul><a href="https://radsam-kampagne.de/wp-content/uploads/2019/09/190925_Endbericht-RadverkInFuzos_final.pdf">Radverkehr in Fußgängerzonen - Offenbach</a></ul>
+<ul><a href="https://findingspress.org/article/24497-local-business-perception-vs-mobility-behavior-of-shoppers-a-survey-from-berlin">Local Business Perception vs. Mobility Behavior of Shoppers: A Survey from Berlin</a></ul>
+<ul><a href="https://www.theguardian.com/uk-news/2023/jan/19/low-traffic-neighbourhoods-boundary-roads-london">LTNs appear not to push traffic on boundary roads</a></ul>
 
 <h1>Argumentationshilfen</h1>
 <ul><a href="https://michaelschneider.medium.com/how-to-overcome-common-objections-to-bike-lanes-9d6edc5a8a0c">How to overcome common objections to bike lanes</a></ul>
@@ -50,6 +56,14 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/EikePan/status/1500377526253895687?s=20&t=WbaVuahWt3mg4EM8ejxZMA">70% aller Wege unter 10km</a></ul>
 <ul><a href="https://twitter.com/Peter_Schaar/status/1471400208647004160?s=20&t=WbaVuahWt3mg4EM8ejxZMA">ehemaliger Bundesdatenschutzbeauftragter zu Falschparker-Photos</a></ul>
 <ul><a href="https://twitter.com/das_Menschy/status/1335888901584654336?s=20&t=tfpNF5cvt3DyxwKy4CLYaw">Schaubilder zu Unfallverursachern Rad vs. Auto</a></ul>
+<ul><a href="https://participate.melbourne.vic.gov.au/transportstrategy/cycling">Bicycles for everyday transport</a> - study looking at how protected bike lanes change peoples willingness to bike</ul>
+<ul><a href="https://twitter.com/Lanefab/status/1642261523413499904?s=20">"Look how few cars there are driving on this road"</a></ul>
+<ul><a href="https://www.forbes.com/sites/carltonreid/2020/09/18/motorists-break-law-to-save-time-cyclists-break-law-to-save-lives-finds-study/">Motorists Break Law To Save Time, Cyclists Break Law To Save Lives, Finds Study</a></ul>
+<ul><a href="https://twitter.com/ohoerl/status/1627027709195874304/photo/1">Unfallursachen</a></ul>
+<ul><a href="https://michaelschneider.medium.com/how-to-overcome-common-objections-to-bike-lanes-9d6edc5a8a0c">How to overcome common objections to bike lanes</a></ul>
+<ul>Was ist denn eigentlich die Lösung unserer Mobilitätsprobleme aus Sicht der Autofans? „Weiter so“ geht nicht, Platz ist begrenzt und Zulassungszahlen steigen. Gibt es eine andere Lösung als die Förderung platzsparender Transportmittel?</ul>
+<ul><a href="https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fmobilitaet%2F2021-12%2Fradfahren-verkehrswende-auto-pendlerrad">Wie aus Autofahrern Radfahrer werden</a></ul>
+
 
 
 <h1>Rechtsgrundlagen</h1>
@@ -77,6 +91,12 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://twitter.com/fietsprofessor/status/1479797840406847489">Cyclist, wear hi-viz and have working lights. It is YOUR responsibility to be seen!</a></ul>
 <ul><a href="https://www.forbes.com/sites/carltonreid/2020/07/10/bicycle-helmets-not-designed-for-impacts-from-cars-stresses-leading-maker-giro/?sh=662076becbd4">Forbes.com (2020): Bicycle Helmets Not Designed For Impacts From Cars, Stresses Leading Maker Giro</a></ul>
 
+<h1>Falschparker fotografieren und anzeigen</h1>
+<ul><a href="https://www.prosieben.de/serien/zervakis-opdenhoevel-live/videos/kampfzone-asphalt">"Kampfzone Asphalt"</a> - Pro7-Beitrag über Fahrradfahren mit u.a. mir</ul>
+<ul><a href="https://taz.de/Die-Wahrheit/!5926032/">Meldehelden der Bordsteinkante</a> - Kommentar zu Privatanzeigen</ul>
+<ul><a href="https://www.abendzeitung-muenchen.de/muenchen/autos-duerfen-fotografiert-werden-falschparken-ist-kein-kavaliersdelikt-art-869303">Falschparker dürfen fotografiert werden</a> - Bericht aus der Abendzeitung München, 2023</ul>
+<ul><a href="https://www.duh.de/presse/pressemitteilungen/pressemitteilung/deutsche-umwelthilfe-begruesst-urteilsbegruendung-des-verwaltungsgerichts-ansbach-fotografische-meldun/">Falschparker dürfen fotografiert werden</a> - Pressemitteilung der DUH, 2023</ul>
+
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
 <ul><a href="https://twitter.com/BerlinCyclist/status/1001182116556804096?s=20">Video: Hupe gegen Falschparker auf Radweg</a></ul>
@@ -85,3 +105,5 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.pscp.tv/w/1kvJpegBVyMxE">@kkklawitter meets Knoflacher - 45 Minuten Diskussion über Verkehrswende mit einer der Ikonen des Fachgebiets</a></ul>
 <ul>https://www.youtube.com/watch?v=2Lilau2tkug - Methoden der Gehwegbefreiung, Beispiel Darmstadt</ul>
 <ul><a href="https://github.com/FFMbyBicycle/Radverkehr-Lesezeichen/blob/master/lesezeichen.md">Radfahr-Lesezeichen von @ffmbybicycle</a></ul>
+<ul><a href="https://www.youtube.com/watch?v=jNO-lTV4_0s">Mit dem Fahrrad durch den Balkan</a> - Reisereportage</ul>
+<ul><a href="https://www.presseportal.de/blaulicht/pm/4970/4792648">Fahrradfahrer gibt sich als echten Polizisten aus</a> - Pressemitteilung der Polizei FFM</ul>
