@@ -100,6 +100,15 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.abendzeitung-muenchen.de/muenchen/autos-duerfen-fotografiert-werden-falschparken-ist-kein-kavaliersdelikt-art-869303">Falschparker dürfen fotografiert werden</a> - Bericht aus der Abendzeitung München, 2023</ul>
 <ul><a href="https://www.duh.de/presse/pressemitteilungen/pressemitteilung/deutsche-umwelthilfe-begruesst-urteilsbegruendung-des-verwaltungsgerichts-ansbach-fotografische-meldun/">Falschparker dürfen fotografiert werden</a> - Pressemitteilung der DUH, 2023</ul>
 
+<h1>Artikel über mich</h1>
+<ul>Journal Frankfurt (22.02.2024): <a href="https://www.journal-frankfurt.de/journal_news/Stadtleben-2/Falschparken-ist-kein-Kavaliersdelikt-Der-Mann-der-Falschparker-in-Frankfurt-anzeigt-42000.html">„Falschparken ist kein Kavaliersdelikt“ - Der Mann, der Falschparker in Frankfurt anzeigt</a></ul>
+<ul>Frankfurter Rundschau (18.05.2023): <a href="https://www.fr.de/frankfurt/frankfurt-leiser-ruf-nach-mehr-sicherheit-92286623.html">Leiser Ruf nach mehr Sicherheit</a></ul>
+<ul>Frankfurter Rundschau (16.05.2023): <a href="https://www.fr.de/frankfurt/frankfurt-private-anzeigen-gegen-falschparker-haben-kaum-wirkung-92280669.html">Wegen Konzept der Stadt: Private Anzeigen gegen Falschparker haben kaum Wirkung</a></ul>
+<ul>Frankfurter Rundschau (20.09.2022): <a href="https://www.fr.de/frankfurt/frankfurt-13-ghostbike-erinnert-an-toedlich-verunglueckte-radfahrerin-91801473.html">13. Ghostbike erinnert an tödlich verunglückte Radfahrerin</a></ul>
+<ul>Frankfurter Rundschau (29.05.2022): <a href="https://www.fr.de/frankfurt/frankfurt-wer-falsch-parkt-wird-angezeigt-91575944.html">Wer falsch parkt, wird angezeigt</a></ul>
+<ul>Frankfurter Rundschau (18.03.2022): <a href="https://www.fr.de/frankfurt/anzeigen-gegen-falschparker-91415534.html">Politiker Falko Görres geht mit Anzeigen gegen Falschparker vor</a></ul>
+<ul>Journal Frankfurt (18.05.2017): <a href="https://www.journal-frankfurt.de/journal_news/Panorama-2/Ride-of-Silence-Gedenkfahrt-fuer-Verunglueckte-Nicht-jeder-der-Fahrrad-faehrt-ist-ein-Heiliger-29567.html">"Ride of Silence": Gedenkfahrt für Verunglückte</a></ul>
+
 <h1>random stuff</h1>
 <ul>Video: <a href="https://twitter.com/BerlinCyclist/status/973826061405433858?s=20">"StVO § 36 (1) "Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen."</a></ul>
 <ul><a href="https://twitter.com/BerlinCyclist/status/1001182116556804096?s=20">Video: Hupe gegen Falschparker auf Radweg</a></ul>
