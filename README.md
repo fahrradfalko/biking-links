@@ -1,5 +1,5 @@
 # biking-links
-Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutze, wenn es um Diskussionen zur Verkehrswende geht</P>
+Im Folgenden habe ich eine Liste angelegt von Links, Tools etc., die ich oft nutze, wenn es um Diskussionen zur Verkehrswende geht</P>
 
 <h1>Tools</h1>
 <ul><a href="https://www.Streetmix.net">Streetmix.net</a> - Mit diesem Tool lassen sich Straßenquerschnitte planen, um z.B. zu zeigen, wie der verfügbare Platz in einer Straße anders genutzt werden kann.</ul>
