@@ -65,6 +65,8 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul>Was ist denn eigentlich die Lösung unserer Mobilitätsprobleme aus Sicht der Autofans? „Weiter so“ geht nicht, Platz ist begrenzt und Zulassungszahlen steigen. Gibt es eine andere Lösung als die Förderung platzsparender Transportmittel?</ul>
 <ul><a href="https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fmobilitaet%2F2021-12%2Fradfahren-verkehrswende-auto-pendlerrad">Wie aus Autofahrern Radfahrer werden</a></ul>
 <ul><a href="https://ssti.us/2023/06/26/adding-road-capacity-is-fruitless/">State Smart Transportation Initiative (2023): Adding road capacity is fruitless, another study finds</a></ul>
+<ul><a href="https://www.regierung-mv.de/Landesregierung/wm/Infrastruktur/Radverkehr/Studie-zur-Versiegelungswirkung-von-Radwegen/">Ministerium für Verkehr, Bau und Landesentwicklung Mecklenburg-Vorpommern (2009): Studie zur Versiegelungswirkung von Radwegen</a></ul>
+<ul><i></i><a href="https://www.regierung-mv.de/serviceassistent/download?id=11927">Direktlink zur Studie</a></i></ul>
 
 
 
