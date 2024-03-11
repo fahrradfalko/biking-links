@@ -27,6 +27,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://www.forbes.com/sites/carltonreid/2018/11/16/cyclists-spend-40-more-in-londons-shops-than-motorists/?sh=517bb366641e">Forbes.com (2018): Cyclists spend 40% more in London Shops than motorists</a></ul>
 <ul><a href="https://www.wiwo.de/technologie/green/verkehr-vier-gruende-warum-fahrradwege-die-wirtschaft-ankurbeln/13548476.html">Wirtschaftswoche (2014): 4 Gründe, warum Fahrradwege die Wirtschaft ankurbeln</a></ul>
 <ul><a href="https://www.aktivmobil-bw.de/aktuelles/news/radfahrer-gut-fuer-einzelhandel/vom/4/4/2016/">Studie der ECF (2016): Radfahrer gut für Einzelhandel</a></ul>
+<ul><a href="https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3">Business Insider (2024): Bike lanes are good for business</a></ul>
 
 <h1>Autofreie / autoarme Städte</h1>
   <ul><a href="https://theconversation.com/12-best-ways-to-get-cars-out-of-cities-ranked-by-new-research-180642">The Conversation (2022): 12 best ways to get cars out of cities – ranked by new research</a></ul>
@@ -63,6 +64,7 @@ Im Folgenden habe ich eine Lise angelegt von Links, Tools etc., die ich oft nutz
 <ul><a href="https://michaelschneider.medium.com/how-to-overcome-common-objections-to-bike-lanes-9d6edc5a8a0c">How to overcome common objections to bike lanes</a></ul>
 <ul>Was ist denn eigentlich die Lösung unserer Mobilitätsprobleme aus Sicht der Autofans? „Weiter so“ geht nicht, Platz ist begrenzt und Zulassungszahlen steigen. Gibt es eine andere Lösung als die Förderung platzsparender Transportmittel?</ul>
 <ul><a href="https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fmobilitaet%2F2021-12%2Fradfahren-verkehrswende-auto-pendlerrad">Wie aus Autofahrern Radfahrer werden</a></ul>
+<ul><a href="https://ssti.us/2023/06/26/adding-road-capacity-is-fruitless/">State Smart Transportation Initiative (2023): Adding road capacity is fruitless, another study finds</a></ul>
 
 
 
