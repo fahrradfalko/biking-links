@@ -5,7 +5,7 @@ Im Folgenden habe ich eine Liste angelegt von Links, Tools etc., die ich oft nut
 <ul><a href="https://www.Streetmix.net">Streetmix.net</a> - Mit diesem Tool lassen sich Straßenquerschnitte planen, um z.B. zu zeigen, wie der verfügbare Platz in einer Straße anders genutzt werden kann.</ul>
 <ul><a href="https://www.3dstreet.org/">Streetmix 3D Renderings</a></ul>
 <ul><a href="https://www.weg.li">weg.li</a> - Mit diesem Tool lassen sich Parkvergehen ganz einfach ans zuständige Ordnungsamt melden, basierend auf Photos, die mit dem Handy aufgenommen wurden.</ul>
-<ul><a href="[https://www.weg.li](https://portal-civ.ekom21.de/civ.public/start.html?oe=00.00.FF.OrdA&mode=cc&cc_key=AnzeigeOwi)">Online-Formular "Anzeige Ordnungswidrigkeit Ruhender Verkehr Frankfurt</a> - Das gleiche wie weg.li, nur komplizierter, dafür offiziell von der Stadt.</ul>
+<ul><a href="https://portal-civ.ekom21.de/civ.public/start.html?oe=00.00.FF.OrdA&mode=cc&cc_key=AnzeigeOwi">Online-Formular "Anzeige Ordnungswidrigkeit Ruhender Verkehr Frankfurt</a> - Das gleiche wie weg.li, nur komplizierter, dafür offiziell von der Stadt.</ul>
 <ul><a href="https://www.falschparken-frankfurt.info/">Falschparken Frankfurt</a> - Eine Anleitung, wie man Parkvergehen an die Behörden melden kann - spezialisiert auf die Behördenstruktur in Frankfurt, aber auch für Rest von Hessen analog gültig.</ul>
 <ul><a href="https://tally.wikinaut.de/">Tally</a> - Ein einfaches browserbasiertes Tool, um verschiedene Dinge zu zählen</ul>
 <ul><a href="https://unfallatlas.statistikportal.de/">Unfallatlas</a> - Der offizielle Unfallatlas des Bundesamtes für Statistik enthält alle Unfälle im Straßenverkehr mit Körperverletzung. Details wie Unfallursache etc. werden aufgelistet.</ul>
