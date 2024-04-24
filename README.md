@@ -102,6 +102,7 @@ Im Folgenden habe ich eine Liste angelegt von Links, Tools etc., die ich oft nut
 <ul><a href="https://www.duh.de/presse/pressemitteilungen/pressemitteilung/deutsche-umwelthilfe-begruesst-urteilsbegruendung-des-verwaltungsgerichts-ansbach-fotografische-meldun/">Falschparker dürfen fotografiert werden</a> - Pressemitteilung der DUH, 2023</ul>
 
 <h1>Artikel über mich</h1>
+<ul>Süddeutsche Zeitung (22.04.2024): <a href="https://www.sueddeutsche.de/wirtschaft/verkehr-der-neue-strassenkampf-wenn-passanten-parksuender-anzeigen-dpa.urn-newsml-dpa-com-20090101-240422-99-760045">Der neue Straßenkampf: Wenn Passanten Parksünder anzeigen</a></ul>
 <ul>F.A.Z. (26.02.2024): <a href="https://www.faz.net/aktuell/rhein-main/frankfurt/wie-falschparker-in-frankfurt-online-angezeigt-werden-koennen-19542197.html">Frankfurt startet Onlineportal für Anzeigen gegen Falschparker</a></ul>
 <ul>Journal Frankfurt (22.02.2024): <a href="https://www.journal-frankfurt.de/journal_news/Stadtleben-2/Falschparken-ist-kein-Kavaliersdelikt-Der-Mann-der-Falschparker-in-Frankfurt-anzeigt-42000.html">„Falschparken ist kein Kavaliersdelikt“ - Der Mann, der Falschparker in Frankfurt anzeigt</a></ul>
 <ul>Frankfurter Rundschau (18.05.2023): <a href="https://www.fr.de/frankfurt/frankfurt-leiser-ruf-nach-mehr-sicherheit-92286623.html">Leiser Ruf nach mehr Sicherheit</a></ul>
